@@ -2,7 +2,7 @@
 
 Looking to learn Flutter from scratch? Look no further than "Flutter Zero to Hero - 2023" by Subhash Chandra Shukla. This comprehensive guide is perfect for beginners who want to learn the fundamentals of Dart programming and the Flutter framework.
 
-https://read.amazon.in/kp/embed?asin=B0BWDMYBKP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_FPY3AQ0HQ6GN1ETQPR9M
+[https://read.amazon.in/kp/embed?asin=B0BWDMYBKP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_FPY3AQ0HQ6GN1ETQPR9M]
 
 Here's what you'll find inside:
 

@@ -1,6 +1,6 @@
 # Flutter-zero-to-hero-2023
 
-https://amzn.eu/d/5HLTKsw
+https://a.co/d/hTrgZzk
 
 ![image](https://user-images.githubusercontent.com/70679949/236603144-3eee33ff-d5b6-4154-87e3-688c808f9438.png)
 

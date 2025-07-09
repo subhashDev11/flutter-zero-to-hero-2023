@@ -1,4 +1,4 @@
-# Flutter-zero-to-hero-2023
+# Flutter-zero-to-hero-2025
 
 https://a.co/d/hTrgZzk
 
@@ -23,7 +23,7 @@ Here's what you'll find inside:
 * Section 9: Internal Flutter Topics
 * Section 10: Go Router in Flutter
 
-With each section carefully crafted to build on the last, you'll learn everything you need to know to create stunning, functional Flutter applications. From setting up your environment to deploying your app, "Flutter Zero to Hero - 2023" has got you covered.
+With each section carefully crafted to build on the last, you'll learn everything you need to know to create stunning, functional Flutter applications. From setting up your environment to deploying your app, "Flutter Zero to Hero - 2025" has got you covered.
 
 ## Features:
 
@@ -34,7 +34,7 @@ With each section carefully crafted to build on the last, you'll learn everythin
 * Accessible to beginners and experienced developers alike
 * Perfect for self-paced learning or as a classroom resource
 
-Upgrade your Flutter skills with "Flutter Zero to Hero - 2023" today.
+Upgrade your Flutter skills with "Flutter Zero to Hero - 2025" today.
 
 
 
